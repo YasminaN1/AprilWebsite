@@ -121,6 +121,20 @@ body {
     font-weight: 800;
     font-style: normal;
   }
+
+  h6 {
+    font-family: "sporty-pro" , sans-serif
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+  }
+
+  .link{
+    position: absolute
+    padding-bottom: 600px;
+    color: white;
+    margin-top:70px;
+  }
   .chapter {
     text-align: center;
     position: absolute;
